@@ -6,6 +6,7 @@
 	},
 	"keywords": ["First", "Node", "Project", "freecodecamp"],
 	"description": "This is my first practice on node",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
