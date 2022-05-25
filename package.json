@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name": "Bassey Daniel",
+		"email": "dbassey360@gmail.com"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
