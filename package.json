@@ -4,6 +4,7 @@
 		"name": "Bassey Daniel",
 		"email": "dbassey360@gmail.com"
 	},
+	"description": "This is my first practice on node",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
